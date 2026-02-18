@@ -91,14 +91,6 @@ My goal is to help developers move beyond tutorials and develop real engineering
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alperclktp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperclktp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 ## 🌍 Connect
 
 ▶️ YouTube: https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg  
