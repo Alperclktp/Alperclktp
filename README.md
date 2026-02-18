@@ -14,8 +14,8 @@
   <a href="https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00F7FF">
   </a>
-  <a href="https://github.com/Alperclktp">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF">
+  <a href="https://www.colegames.net">
+    <img alt="Website" src="https://img.shields.io/badge/COLE%20GAMES%20WEB-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF">
   </a>
 </p>
 
