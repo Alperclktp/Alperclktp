@@ -1,6 +1,6 @@
 <!-- =============================================== -->
 <!--               ALPER ÇELİKTEPE                  -->
-<!--     Senior Game Engineer • Systems Architect   -->
+<!--     Senior Game Developer • Systems Architect   -->
 <!-- =============================================== -->
 
 <p align="center">
