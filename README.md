@@ -107,7 +107,6 @@ My teaching approach focuses on turning students into **independent, system-thin
 ## 🌍 Connect
 
 ▶️ YouTube: https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg  
-💻 GitHub: https://github.com/Alperclktp  
 🌐 Website: https://colegames.net  
 
 ---
