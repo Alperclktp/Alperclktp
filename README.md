@@ -1,5 +1,5 @@
 <!-- ===================================== -->
-<!--            ALPER PROFILE              -->
+<!--             ALPER PROFILE             -->
 <!-- ===================================== -->
 
 <p align="center">
@@ -9,14 +9,16 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alperclktp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+  <a href="https://www.linkedin.com/in/alperclktp/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg">
-    <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00F7FF" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=dark" height="40"/>
   </a>
-  <a href="https://www.colegames.net">
-    <img src="https://img.shields.io/badge/COLE%20GAMES-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.colegames.net" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=googlechrome&theme=dark" height="40"/>
   </a>
 </p>
 
@@ -38,7 +40,7 @@ Currently Co-Founder of **COLE Games**, building scalable and system-driven game
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,visualstudio&theme=dark&perline=6" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,visualstudio,docker,aws,postgresql&theme=dark&perline=6" />
 </p>
 
 ---
@@ -53,19 +55,6 @@ Currently Co-Founder of **COLE Games**, building scalable and system-driven game
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperclktp&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" 
     height="170"/>
 </p>
-
----
-
-## 🎓 Private Lessons – Unity & C#
-
-If you want to:
-
-- Learn Unity from fundamentals to advanced architecture  
-- Improve C# for real production environments  
-- Build portfolio-ready game projects  
-- Understand scalable game system design  
-
-Feel free to connect via LinkedIn.
 
 ---
 
