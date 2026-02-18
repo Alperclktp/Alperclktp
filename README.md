@@ -74,7 +74,9 @@ I contribute both technically and strategically, taking part in architectural de
   </sub>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=1&section=footer"/>
+</p>
 
 ### 🌐 Web & Backend Stack
 
