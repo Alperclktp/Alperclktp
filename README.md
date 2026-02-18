@@ -13,18 +13,18 @@
 
 ## 👋 About Me
 
-I’m **Alper Çeliktepe**, a senior game developer and systems-oriented engineer with over **10 years of software development experience** and **8+ years dedicated exclusively to game development**.
+I’m **Alper Çeliktepe**, a senior game developer and systems-focused engineer with over **10 years of software development experience** and more than **8 years dedicated specifically to game development**.
 
-Throughout my career, I have contributed to **60+ game projects**, spanning:
+Throughout my career, I have contributed to **60+ game projects**, including:
 
 - Mobile games published on **Google Play** and the **App Store**
 - PC releases
-- System-driven multiplayer platforms
-- Scalable Roblox-based game ecosystems
+- Multiplayer-driven systems
+- Roblox-based game infrastructures
 
-My expertise covers the **entire development lifecycle** — from prototyping and gameplay architecture to optimization, production polish, and release management.
+My work covers the full development lifecycle, from early prototyping and gameplay architecture to optimization, polishing, and release.
 
-I specialize in building **clean, modular, and scalable game systems** designed for long-term growth and maintainability.
+I focus on building **clean, modular, and scalable systems** that are designed for long-term growth and maintainability.
 
 📍 Antalya, Turkey 🇹🇷  
 🎮 Co-Founder of **COLE Games**  
@@ -34,18 +34,18 @@ I specialize in building **clean, modular, and scalable game systems** designed 
 
 ## 🧠 Engineering Philosophy
 
-I approach game development as system engineering.
+I approach game development with a systems mindset.
 
-My principles:
+Core principles:
 
 - Server-authoritative architecture
-- Modular and reusable systems
+- Modular and reusable design
 - Clear separation of concerns
-- Performance-first mindset
+- Performance-focused implementation
 - Maintainable and extensible codebases
-- Production-ready over prototype-quality
+- Production-ready standards
 
-I focus on building games that are not just playable — but **scalable, secure, and structurally sound**.
+For me, a game is not only about gameplay. It is about structure, scalability, and long-term sustainability.
 
 ---
 
@@ -53,15 +53,15 @@ I focus on building games that are not just playable — but **scalable, secure,
 
 At **COLE Games**, I design and develop:
 
-- Roblox server-side authoritative systems
-- Economy & progression infrastructures
+- Server-side authoritative systems on Roblox
+- Economy and progression infrastructures
 - Modular UI frameworks
-- DataStore-driven leaderboards
-- Purchase systems (Dev Products / GamePass)
-- Scalable multiplayer logic
-- Long-term expandable game architectures
+- DataStore-based leaderboard systems
+- Purchase systems including Dev Products and GamePasses
+- Scalable multiplayer architectures
+- Expandable long-term game infrastructures
 
-I operate as both a **technical lead and systems architect**, ensuring that every feature integrates cleanly into the larger ecosystem.
+I actively contribute as both a technical lead and systems architect, ensuring every feature integrates cleanly into the overall architecture.
 
 ---
 
@@ -81,26 +81,26 @@ I operate as both a **technical lead and systems architect**, ensuring that ever
 
 ## 🎓 Private Mentorship – Unity & C#
 
-I provide structured private mentorship for:
+I provide structured private mentorship focused on:
 
-- Unity fundamentals → advanced architecture
-- Clean C# coding standards
+- Unity fundamentals to advanced architecture
+- Clean C# coding practices
 - Scalable system design
 - Production-oriented development mindset
-- Portfolio-ready project building
+- Building strong portfolio projects
 
-My teaching approach focuses on turning students into **independent, system-thinking developers**.
+My goal is to help developers think beyond tutorials and understand real-world engineering practices.
 
 ---
 
 ## 📊 Career Highlights
 
 - 10+ years in software development  
-- 8+ years focused on professional game development  
+- 8+ years in professional game development  
 - 60+ completed game projects  
-- Published across Google Play & App Store  
+- Games published on Google Play and App Store  
 - Co-Founder of COLE Games  
-- Built scalable infrastructures on Roblox platform  
+- Developed and architected scalable infrastructures for published and upcoming games on the Roblox platform  
 
 ---
 
@@ -114,4 +114,3 @@ My teaching approach focuses on turning students into **independent, system-thin
 <p align="center">
   <b>Engineering scalable worlds with clean systems.</b> ⚡
 </p>
-
