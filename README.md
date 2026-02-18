@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alperclktp/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
   <a href="https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00F7FF">
+    <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00F7FF" />
   </a>
   <a href="https://www.colegames.net">
-    <img alt="COLE GAMES" src="https://img.shields.io/badge/COLE%20GAMES-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF">
+    <img src="https://img.shields.io/badge/COLE%20GAMES-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF" />
   </a>
 </p>
 
