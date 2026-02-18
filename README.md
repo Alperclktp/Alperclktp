@@ -61,12 +61,14 @@ I contribute both technically and strategically, taking part in architecture dec
 
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,visualstudio&theme=dark&perline=6"
+    src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,github,githubdesktop,vscode,rider,photoshop,illustrator,premiere&theme=dark&perline=6"
   />
 </p>
 
 <p align="center">
-  <sub>C# • Unity • Lua • Roblox Studio • Git • Visual Studio</sub>
+  <sub>
+    C# • Unity • Lua • Roblox Studio • Git • GitHub • GitHub Desktop • VS Code • Rider • Photoshop • Illustrator • Premiere Pro
+  </sub>
 </p>
 
 ---
