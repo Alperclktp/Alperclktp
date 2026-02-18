@@ -51,17 +51,9 @@ For me, a game is not only about gameplay. It is about structure, scalability, a
 
 ## 🏗 What I Currently Build
 
-At **COLE Games**, I design and develop:
+At **COLE Games**, my partner and I develop Roblox-based game experiences, focusing on scalable systems and long-term game growth.
 
-- Server-side authoritative systems on Roblox
-- Economy and progression infrastructures
-- Modular UI frameworks
-- DataStore-based leaderboard systems
-- Purchase systems including Dev Products and GamePasses
-- Scalable multiplayer architectures
-- Expandable long-term game infrastructures
-
-I actively contribute as both a technical lead and systems architect, ensuring every feature integrates cleanly into the overall architecture.
+I contribute both technically and strategically, taking part in architecture decisions, core gameplay systems, and overall project direction.
 
 ---
 
