@@ -10,9 +10,12 @@
 ---
 
 <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/alperclktp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=00F7FF" />
   </a>
+</p>
+
   <a href="https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg">
     <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00F7FF" />
   </a>
