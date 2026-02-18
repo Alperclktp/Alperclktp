@@ -1,11 +1,11 @@
 <!-- =============================================== -->
 <!--               ALPER ÇELİKTEPE                  -->
-<!--     Senior Game Developer • Systems Architect   -->
+<!--     Senior Game Developer • Systems Architect  -->
 <!-- =============================================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Engineer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Systems+Architect;Game+Systems+%26+Architecture"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Developer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Systems+Architect;Game+Systems+%26+Architecture"
   />
 </p>
 
