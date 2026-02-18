@@ -1,21 +1,17 @@
 <!-- ===================================== -->
 <!--            ALPER PROFILE              -->
-<!--        Clean • Neon • Senior          -->
 <!-- ===================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Developer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Specialist;Scalable+Systems+%7C+Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Developer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Specialist;Scalable+Systems+%7C+Clean+Architecture" />
 </p>
 
 ---
 
 <p align="center">
-<p align="center">
   <a href="https://www.linkedin.com/in/alperclktp/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=00F7FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
-</p>
-
   <a href="https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg">
     <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00F7FF" />
   </a>
@@ -24,65 +20,38 @@
   </a>
 </p>
 
-
 ---
 
 ## 👋 About
 
 I’m **Alper**, a game developer with **10+ years** of software development experience and **8+ years** focused specifically on game development.
 
-I have contributed to **60+ projects**, ranging from prototypes to full-scale commercial releases across **Google Play**, the **App Store**, and PC platforms.
+I’ve contributed to **60+ projects**, from prototypes to production releases across Google Play, the App Store, and PC platforms.
 
-Currently, I serve as **Co-Founder of COLE Games**, where we design and build scalable, engaging and long-term sustainable game systems — including advanced infrastructure on the **Roblox platform**.
+Currently Co-Founder of **COLE Games**, building scalable and system-driven game experiences including advanced Roblox infrastructure.
 
 📍 Antalya, Turkey 🇹🇷  
-🎓 Private Unity & C# Game Development Instructor  
-
----
-
-## 🧠 Core Focus
-
-- Clean, modular architecture  
-- Scalable multiplayer systems  
-- Server-authoritative Roblox design  
-- Gameplay system engineering  
-- Performance optimization & polish  
+🎓 Private Unity & C# Instructor  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-</p>
-
-<p align="center">
-  Unity • C# • Roblox • Lua • Git • Visual Studio
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,visualstudio&theme=dark&perline=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Snapshot
 
-<!--
-Bu kısım: GitHub profilinden otomatik istatistik kartları gösterir.
-Bozuk görünüyorsa genelde rate-limit/caching olur.
-Aşağıdaki linkler "cache buster" (v=1) içerir ve stabil parametrelerle gelir.
--->
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Alperclktp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&cache_seconds=7200"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperclktp&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=7200"
-    height="170"
-  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Alperclktp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" 
+    height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperclktp&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" 
+    height="170"/>
 </p>
 
 ---
@@ -101,5 +70,5 @@ Feel free to connect via LinkedIn.
 ---
 
 <p align="center">
-  <b>COLE Games</b> — Engineering scalable worlds with clean systems.
+  <b>COLE Games</b> — Engineering scalable worlds with clean systems ⚡
 </p>
