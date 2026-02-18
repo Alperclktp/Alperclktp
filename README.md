@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=4&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
 </p>
 
 ## 👋 About Me
@@ -44,8 +44,6 @@ Core principles:
 
 For me, strong gameplay begins with strong systems.
 
-<sub>Architecture determines how fast a team can move tomorrow.</sub>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
 </p>
@@ -60,70 +58,17 @@ I contribute both technically and strategically, taking part in architectural de
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
 </p>
 
-## 🚀 Featured Work
-
-### Roblox Game Infrastructure
-Server-authoritative systems, modular UI architecture, and structured progression pipelines designed for long-term growth.
-
-### Unity Mobile Titles
-Production-ready C# architecture, gameplay systems, performance optimization, and release-focused polishing.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alperclktp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperclktp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
-</p>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alperclktp/Alperclktp/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<sub>If the animation is not visible yet, it will appear after the GitHub Action workflow generates the output file.</sub>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
-</p>
-
 ## 🛠 Tech Stack
 
-### 💻 Development Stack
-
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,github,githubdesktop,vscode,rider&theme=dark&perline=9"
+    src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,github,githubdesktop,vscode,rider,photoshop,illustrator,premiere&theme=dark&perline=6"
   />
 </p>
 
 <p align="center">
   <sub>
-    C# • Unity • Lua • Roblox Studio • Git • GitHub • GitHub Desktop • VS Code • Rider
-  </sub>
-</p>
-
----
-
-### 🎨 Creative Tools
-
-<p align="center">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,illustrator,premiere&theme=dark&perline=9"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Photoshop • Illustrator • Premiere Pro
+    C# • Unity • Lua • Roblox Studio • Git • GitHub • GitHub Desktop • VS Code • Rider • Photoshop • Illustrator • Premiere Pro
   </sub>
 </p>
 
@@ -157,13 +102,17 @@ My goal is to help developers move beyond tutorials and develop real engineering
 - Architected structured game systems across Unity and Roblox platforms  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=4&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
 </p>
 
 ## 🌍 Connect
 
 ▶️ YouTube: https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg  
 🌐 Website: https://colegames.net  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 <p align="center">
   <b>Engineering structured, scalable game systems.</b> ⚡
