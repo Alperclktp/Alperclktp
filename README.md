@@ -91,6 +91,10 @@ My goal is to help developers move beyond tutorials and develop real engineering
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
+
 ## 🌍 Connect
 
 ▶️ YouTube: https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg  
