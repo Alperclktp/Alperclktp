@@ -9,7 +9,9 @@
   />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 ## 👋 About Me
 
@@ -23,7 +25,9 @@ I am also the co-founder of **COLE Games**, where we develop Roblox-based games 
 🎮 Co-Founder of COLE Games  
 🎓 Private Unity & C# Game Development Instructor  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 ## 🧠 Engineering Philosophy
 
@@ -40,7 +44,9 @@ Core principles:
 
 For me, strong gameplay begins with strong systems.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 ## 🏗 What I Currently Build
 
@@ -48,7 +54,9 @@ At **COLE Games**, my partner and I build Roblox-based game experiences designed
 
 I contribute both technically and strategically, taking part in architectural decisions, core gameplay systems, and overall technical direction.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -64,7 +72,9 @@ I contribute both technically and strategically, taking part in architectural de
   </sub>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 ## 🎓 Private Mentorship – Unity & C#
 
@@ -78,7 +88,9 @@ I provide structured private mentorship focused on:
 
 My goal is to help developers move beyond tutorials and develop real engineering discipline.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 ## 📊 Career Highlights
 
@@ -89,8 +101,6 @@ My goal is to help developers move beyond tutorials and develop real engineering
 - Co-Founder of COLE Games  
 - Architected structured game systems across Unity and Roblox platforms  
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
 </p>
@@ -100,7 +110,9 @@ My goal is to help developers move beyond tutorials and develop real engineering
 ▶️ YouTube: https://www.youtube.com/channel/UCyp-4I-cR0GfK4IKHm4fhGg  
 🌐 Website: https://colegames.net  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&section=footer"/>
+</p>
 
 <p align="center">
   <b>Engineering structured, scalable game systems.</b> ⚡
