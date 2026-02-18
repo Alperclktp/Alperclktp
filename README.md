@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Engineer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Systems+Architect;Scalable+Game+Infrastructure"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Engineer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Systems+Architect;Game+Systems+%26+Architecture"
   />
 </p>
 
@@ -15,38 +15,38 @@
 
 I’m **Alper Çeliktepe**, a senior game developer with over **10 years of software development experience** and **8+ years focused on professional game development**.
 
-I specialize in building scalable, system-driven game architectures across Unity and Roblox, contributing to **60+ projects** ranging from mobile releases on Google Play and the App Store to long-term multiplayer infrastructures.
+My work centers around designing and implementing structured, system-driven game architectures across Unity and Roblox. I have contributed to **60+ projects**, ranging from mobile titles published on Google Play and the App Store to multiplayer-focused game infrastructures.
 
-I am also the co-founder of **COLE Games**, where we develop Roblox-based games with a strong emphasis on clean architecture, maintainability, and sustainable growth.
+I am also the co-founder of **COLE Games**, where we develop Roblox-based games with a strong emphasis on clean architecture, long-term maintainability, and steady product growth.
 
 📍 Antalya, Turkey 🇹🇷  
 🎮 Co-Founder of COLE Games  
-🎓 Private Unity & C# Game Development Instructor
+🎓 Private Unity & C# Game Development Instructor  
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-I approach game development with a systems mindset.
+I approach game development from a systems perspective.
 
 Core principles:
 
 - Server-authoritative architecture
 - Modular and reusable design
 - Clear separation of concerns
-- Performance-focused implementation
+- Performance-conscious implementation
 - Maintainable and extensible codebases
-- Production-ready standards
+- Production-level standards
 
-For me, strong gameplay starts with strong systems.
+For me, strong gameplay begins with strong systems.
 
 ---
 
 ## 🏗 What I Currently Build
 
-At **COLE Games**, my partner and I develop Roblox-based game experiences, focusing on scalable systems and long-term game growth.
+At **COLE Games**, my partner and I build Roblox-based game experiences designed for stability, clarity, and long-term evolution.
 
-I contribute both technically and strategically, taking part in architecture decisions, core gameplay systems, and overall project direction.
+I contribute both technically and strategically, taking part in architectural decisions, core gameplay systems, and overall technical direction.
 
 ---
 
@@ -72,11 +72,11 @@ I provide structured private mentorship focused on:
 
 - Unity fundamentals to advanced architecture
 - Clean C# coding practices
-- Scalable system design
-- Production-oriented development mindset
-- Building strong portfolio projects
+- System-oriented development thinking
+- Production-ready project structuring
+- Building strong portfolio foundations
 
-My goal is to help developers think beyond tutorials and understand real-world engineering practices.
+My goal is to help developers move beyond tutorials and develop real engineering discipline.
 
 ---
 
@@ -85,9 +85,9 @@ My goal is to help developers think beyond tutorials and understand real-world e
 - 10+ years in software development  
 - 8+ years in professional game development  
 - 60+ completed game projects  
-- Games published on Google Play and App Store  
+- Titles published on Google Play and the App Store  
 - Co-Founder of COLE Games  
-- Architected scalable game systems across Unity and Roblox platforms  
+- Architected structured game systems across Unity and Roblox platforms  
 
 ---
 
@@ -99,5 +99,5 @@ My goal is to help developers think beyond tutorials and understand real-world e
 ---
 
 <p align="center">
-  <b>Engineering scalable worlds with clean systems.</b> ⚡
+  <b>Engineering structured, scalable game systems.</b> ⚡
 </p>
