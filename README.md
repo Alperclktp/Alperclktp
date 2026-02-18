@@ -1,40 +1,52 @@
-<!-- =============================== -->
-<!--        ALPER | PROFILE README   -->
-<!--     Clean • Professional • Pro  -->
-<!-- =============================== -->
+<!-- ========================================= -->
+<!--           ALPER ÇELİKTEPE                -->
+<!--   Senior Game Engineer • COLE Games      -->
+<!-- ========================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Developer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Specialist;Scalable+Systems+%7C+Clean+Architecture"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Alper+%C3%87eliktepe;Senior+Game+Engineer;Co-Founder+%40+COLE+Games;Unity+%26+Roblox+Systems+Architect;Scalable+Game+Infrastructure"
   />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Game%20Systems-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20Modular%20%7C%20Server--Authoritative-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-000000?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👋 About
 
-I’m **Alper**, a game developer with **10+ years** of software development experience and **8+ years** focused specifically on game development.
+I’m **Alper**, a senior game engineer with over **10 years of software development experience**, specializing in building scalable, production-ready game systems.
 
-I’ve contributed to **60+ projects**, from prototypes to production releases across **Google Play**, the **App Store**, and **PC platforms**.
+Over the years, I’ve contributed to **60+ projects**, shipping products across **Google Play**, the **App Store**, and **PC platforms**.
 
-Currently, I serve as **Co-Founder of COLE Games**, building scalable and system-driven game experiences — including advanced infrastructure on the **Roblox platform**.
+As **Co-Founder of COLE Games**, I focus on:
+
+- System-driven game engineering  
+- Server-authoritative Roblox architectures  
+- Performance-first design  
+- Modular and maintainable codebases  
+- Production stability & long-term scalability  
 
 📍 Antalya, Turkey 🇹🇷  
-🎓 Private Unity & C# Game Development Instructor  
+🎓 Private Unity & C# Instructor  
 
 ---
 
-## 🧠 Core Focus
+## 🧠 Engineering Philosophy
 
-- Clean and modular architecture  
-- Scalable gameplay systems  
-- Roblox server-authoritative systems  
-- Performance optimization & production polish  
-- Long-term maintainable game engineering  
+- Architecture > Hacks  
+- Systems > Scripts  
+- Maintainability > Quick Wins  
+- Scalability from Day 1  
+- Server Authority is Non-Negotiable  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Stack
 
 <p align="center">
   <img
@@ -48,16 +60,27 @@ Currently, I serve as **Co-Founder of COLE Games**, building scalable and system
 
 ---
 
-## 🎓 Private Lessons – Unity & C#
+## 🏗 What I Build
+
+- Advanced Roblox economy & progression systems  
+- Modular client/server architectures  
+- DataStore-driven scalable infrastructure  
+- Custom admin systems  
+- Performance-optimized UI/UX pipelines  
+- Production-ready Unity gameplay frameworks  
+
+---
+
+## 🎓 Private Mentorship – Unity & C#
 
 If you want to:
 
-- Learn Unity from fundamentals to advanced architecture  
-- Improve C# with real production-oriented projects  
-- Build portfolio-ready game systems  
-- Understand scalable clean architecture in practice  
+- Master Unity beyond beginner level  
+- Write production-grade C#  
+- Understand scalable architecture  
+- Build portfolio-level systems  
 
-Feel free to connect with me.
+We can work together.
 
 ---
 
