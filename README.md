@@ -13,22 +13,15 @@
 
 ## 👋 About Me
 
-I’m **Alper Çeliktepe**, a senior game developer and systems-focused engineer with over **10 years of software development experience** and more than **8 years dedicated specifically to game development**.
+I’m **Alper Çeliktepe**, a senior game developer with over **10 years of software development experience** and **8+ years focused on professional game development**.
 
-Throughout my career, I have contributed to **60+ game projects**, including:
+I specialize in building scalable, system-driven game architectures across Unity and Roblox, contributing to **60+ projects** ranging from mobile releases on Google Play and the App Store to long-term multiplayer infrastructures.
 
-- Mobile games published on **Google Play** and the **App Store**
-- PC releases
-- Multiplayer-driven systems
-- Roblox-based game infrastructures
-
-My work covers the full development lifecycle, from early prototyping and gameplay architecture to optimization, polishing, and release.
-
-I focus on building **clean, modular, and scalable systems** that are designed for long-term growth and maintainability.
+I am also the co-founder of **COLE Games**, where we develop Roblox-based games with a strong emphasis on clean architecture, maintainability, and sustainable growth.
 
 📍 Antalya, Turkey 🇹🇷  
-🎮 Co-Founder of **COLE Games**  
-🎓 Private Unity & C# Game Development Instructor  
+🎮 Co-Founder of COLE Games  
+🎓 Private Unity & C# Game Development Instructor
 
 ---
 
