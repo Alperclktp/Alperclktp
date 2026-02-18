@@ -38,7 +38,7 @@ Core principles:
 - Maintainable and extensible codebases
 - Production-ready standards
 
-For me, a game is not only about gameplay. It is about structure, scalability, and long-term sustainability.
+For me, strong gameplay starts with strong systems.
 
 ---
 
@@ -87,7 +87,7 @@ My goal is to help developers think beyond tutorials and understand real-world e
 - 60+ completed game projects  
 - Games published on Google Play and App Store  
 - Co-Founder of COLE Games  
-- Developed and architected scalable infrastructures for published and upcoming games on the Roblox platform  
+- Architected scalable game systems across Unity and Roblox platforms  
 
 ---
 
