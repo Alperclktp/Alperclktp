@@ -60,15 +60,33 @@ I contribute both technically and strategically, taking part in architectural de
 
 ## 🛠 Tech Stack
 
+### 🎮 Game Development Stack
+
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,html,css,javascript,react,mysql,git,github,githubdesktop,vscode,rider,photoshop,illustrator,premiere&theme=dark&perline=8"
+    src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,lua,robloxstudio,git,github,githubdesktop,vscode,rider,photoshop,illustrator,premiere&theme=dark&perline=6"
   />
 </p>
 
 <p align="center">
   <sub>
-    C# • Unity • Lua • Roblox Studio • HTML • CSS • JavaScript • React • SQL • Git • GitHub • GitHub Desktop • VS Code • Rider • Photoshop • Illustrator • Premiere Pro
+    C# • Unity • Lua • Roblox Studio • Git • GitHub • GitHub Desktop • VS Code • Rider • Photoshop • Illustrator • Premiere Pro
+  </sub>
+</p>
+
+---
+
+### 🌐 Web & Backend Stack
+
+<p align="center">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,mysql&theme=dark&perline=5"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    HTML • CSS • JavaScript • React • SQL
   </sub>
 </p>
 
